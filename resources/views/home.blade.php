@@ -29,7 +29,7 @@
                     text-align:center; z-index:3; display:inline-block;">
             
             {{-- GIF background --}}
-            <img src="{{ asset('images/animated-car.gif') }}" alt="Car Animation" 
+            <img src="{{ asset('images/animated-car.gif') }}" alt="" 
                  style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; 
                         opacity:0.15; z-index:0; border-radius:30px;">
 
