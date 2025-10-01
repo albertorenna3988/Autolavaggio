@@ -13,9 +13,6 @@
             Dotato di illuminazione LED dinamica, offre un'esperienza visiva unica durante ogni lavaggio.
         </p>
 
-        {{-- IMMAGINE RULLO --}}
-        <img src="{{ asset('images/rullo.jpg') }}" alt="" class="rounded-2xl shadow-lg mb-6 mx-auto w-full max-w-4xl">
-
         {{-- BOTTONE PREZZI --}}
         <div class="text-center">
             <a href="{{ route('prezzi') }}" class="inline-block bg-yellow-400 text-black font-bold py-3 px-8 rounded-xl hover:bg-yellow-500 transition duration-300">
